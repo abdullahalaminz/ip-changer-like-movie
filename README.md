@@ -2,7 +2,6 @@
 
 A simple and efficient tool to automatically change your IP address using Tor network at regular intervals.
 
-<img width="800" alt="banner" src="https://github.com/user-attachments/assets/a5554d67-a655-4f42-b0c4-ef9272ba8e76" />
 
 ## Features
 
@@ -121,7 +120,3 @@ This tool uses the Tor network to change your IP address. While Tor provides ano
 
 This project is licensed under the MIT License.
 
-### Video Demo
-[![Hound Demo](https://img.youtube.com/vi/dcTlDILnrSY/0.jpg)](https://www.youtube.com/watch?v=dcTlDILnrSY)
-
-### For More Video subcribe <a href="http://youtube.com/techchipnet">TechChip YouTube Channel</a>
